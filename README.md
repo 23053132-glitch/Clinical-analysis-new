@@ -727,6 +727,4 @@ Potential future improvements include:
 
 This project is an experimental software application for clinical-document analysis.
 
-**It is not a medical device, diagnostic system, or substitute for professional medical judgment.**
-
 All clinical examples and test documents used during development are synthetic.
